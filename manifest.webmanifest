@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "Khotwa | خطوة",
+  "short_name": "Khotwa",
+  "description": "دليل مبسط للوالدين وأنشطة منزلية لدعم النمو الحركي والاستقلالية.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f8fa",
+  "theme_color": "#248b7a",
+  "icons": [
+    {"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
